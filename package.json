@@ -1,0 +1,24 @@
+{
+  "name": "rah1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.6.0",
+    "logfmt": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahamath1986/rah1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahamath1986/rah1/issues"
+  },
+  "homepage": "https://github.com/rahamath1986/rah1"
+}
